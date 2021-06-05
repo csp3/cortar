@@ -1,0 +1,35 @@
+Para entender las redes neuronales artificiales
+(RNA), se debe establecer cómo funciona una red
+neuronal biológica, porque la estructura del cerebro
+se fundamenta en la composición de millones de
+células interconectadas entre sí mediante la sinapsis,
+la unidad fundamental con la cual el cerebro percibe
+los estímulos físicos y químicos de la naturaleza.
+La unidad básica del sistema nervioso son las
+neuronas, las neuronas tienen tres componentes
+principales: las dendritas, el cuerpo y el axón. Las
+dendritas son los elementos receptores de la red,
+encargados de llevar las señales eléctricas de las
+excitaciones fisicoquímicas. El cuerpo conduce y
+suma todas las señales eléctricas desde la entrada.
+El axón es una fibra larga que permite la conexión
+desde el cuerpo hasta otras neuronas, se ramifica
+en su extremo en pequeños bulbos finales que casi tocan las dendritas de las células vecinas. Un
+esquema para describir una red neuronal biológica
+es la que se presenta en la Figura 1.
+Las redes neuronales funcionan de igual forma
+como lo hace el resto del cuerpo humano: mediante
+impulsos eléctricos y reacciones químicas. Los
+impulsos eléctricos que usan las redes neuronales
+para intercambiar información con las demás, viajan
+por el axón que hace contacto con las dendritas de la
+neurona vecina mediante las sinapsis. La intensidad
+de la corriente transmitida depende de la eficiencia
+de la transmisión sináptica.
+El impulso eléctrico es transmitido mediante las
+dendritas y conducido por el axón hacia otras
+conexiones entre otras neuronas. De manera que el
+estímulo percibido por las dendritas sea la causa su
+reacción, en los órganos o tejidos vinculados a esas
+neuronas, depende de la intensidad del estímulo y
+de la ponderación del mismo.
